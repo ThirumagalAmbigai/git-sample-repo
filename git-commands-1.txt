@@ -1,5 +1,4 @@
-git status
-git init
+git status -> Prints the status of the Git Repository
 git config --global user.name "Thiru"
 git config --global user.email thirumagal.cse@gmail.com
 git config user.name "Thiru"
@@ -8,3 +7,4 @@ git add
 git commit -m ""
 git log
 git diff <filename>
+type cls and enter in command prompt to clear the screen
