@@ -10,3 +10,58 @@ git log
 git diff <filename>
 type cls and enter in command prompt to clear the screen
 Added new line
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     PrivateBranch1-----------------------------
+		      |						|
+		      |						|
+		      |						|
+--------------------Master----------Release---------------Master--------------------------Master-------------Release--------------------Master----------------------------
+                     |										|
+		     |										|Pull and then merge
+		PrivateBranch2-------------------------------------------------------------------
